@@ -1,0 +1,28 @@
+{
+  "name": "Todo App",
+  "short_name": "Todo App",
+  "version": "1.0.0",
+  "description": "An online task manager",
+  "icons": [
+    {
+      "src": "static/img/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "64x64 32x32 24x24 16x16"
+    },
+    {
+      "src": "static/img/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "static/img/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
